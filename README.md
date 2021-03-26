@@ -3,7 +3,7 @@
 
 This application primarily is a platform for restaurants and diners to connect facilitated by food delivery executives. OOP principles, e.g., interfaces, inheritance,
 polymorphism are used which provides the best and most appropriate design.
-The application serves the following features:
+The application runs on the following pre-assumptions:
 1) Customers are generally charged 40/- delivery charge per order. There are additionally, two special categories:   
 A) Elite Customers - Free delivery (50/- off on bill value greater than 200/- after restaurant discount)  
 B) Special Customers - 20/- delivery charge per order (25/- off on bill value greater than 200/- after restaurant discount)  
